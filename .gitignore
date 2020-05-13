@@ -1,0 +1,4 @@
+*.pyc
+*.h5
+**/preprocess_test_img/
+**/complete_data/
